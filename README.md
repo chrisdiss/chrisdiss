@@ -27,6 +27,17 @@ I build ambitious **0→1 products** at the intersection of technology and human
 | **Smart Fitness Mat** | Hardware + AI product with real-time exercise detection and form coaching. |
 | **Motivation Through Design** | Evidence-based research applying behavioral science to fitness apps. |
 
+## 🧩 Core systems
+
+Four interconnected systems shape how I build:
+
+| System | Idea |
+| --- | --- |
+| 🛠️ **Product System** | A backbone that turns raw insight into shipped product — and shipped product into business value. |
+| 🚀 **Startups** | Meaningful visions worth building — taken from conviction to company, from zero to real. |
+| 🧠 **Human Behaviour** | Products designed around how people actually behave — built to shape habits, not just serve features. |
+| ⚙️ **Tech System** | Coherent systems across hardware, software, and AI — shaped as one stack, not stitched from parts. |
+
 ## 🧰 What I do
 
 ![Product Strategy](https://img.shields.io/badge/Product_Strategy-2563EB?style=flat-square)
@@ -56,6 +67,10 @@ I build ambitious **0→1 products** at the intersection of technology and human
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chrisdiss&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisdiss&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisdiss&hide_border=true&theme=default" alt="GitHub streak"/>
 </p>
 
 <!---
