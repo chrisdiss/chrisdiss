@@ -64,15 +64,6 @@ Four interconnected systems shape how I build:
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chrisdiss&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisdiss&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisdiss&hide_border=true&theme=default" alt="GitHub streak"/>
-</p>
-
 <!---
 chrisdiss/chrisdiss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
